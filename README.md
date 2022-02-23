@@ -7,7 +7,7 @@ This web application uses REST to connect to the PasteBin API. Pastebin is a web
 1. Some front-end features are inspired by [https://github.com/flatlogic/react-material-admin/](https://github.com/flatlogic/react-material-admin/)
 
 ### Screenshots
-<<<<<<< HEAD
+
 <img src="/img/screenshot1.png"
      alt="Website Screenshot"
      style="height: 300px;" />
