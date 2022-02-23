@@ -6,6 +6,17 @@ This web application uses REST to connect to the PasteBin API. Pastebin is a web
 1. The back-end uses Node (Express) and axios
 1. Some front-end features are inspired by [https://github.com/flatlogic/react-material-admin/](https://github.com/flatlogic/react-material-admin/)
 
+### Screenshots
+<img src="/img/screenshot1.png"
+     alt="Website Screenshot"
+     style="height: 300px;" />
+<img src="/img/screenshot2.png"
+     alt="Website Screenshot"
+     style="height: 300px;" />
+<img src="/img/screenshot3.png"
+     alt="Website Screenshot"
+     style="height: 300px;" />
+
 ### Set up
 1. Set up a PasteBin account at [https://pastebin.com/](https://pastebin.com/) and get the API Dev key. 
 2. Add the key to the .env file in /server
